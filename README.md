@@ -1,4 +1,4 @@
-# React Redux BookList example
+# React/Redux/Router Blog example
 
 A simple React application that hooks up Redux to a React project using React Router to simulate a blog
 
